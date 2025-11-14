@@ -37,7 +37,7 @@ All models are trained exclusively on **public academic datasets**.
 
 
 ## 📰 News
-- **2025-11-03:** 🎉 Paper, project page, code and models are all released.
+- **2025-11-14:** 🎉 Paper, project page, code and models are all released.
 
 ## ✨ Highlights
 
